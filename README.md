@@ -2,6 +2,7 @@
 
 **Data Analyst · MIS & Automation Specialist · New Delhi, India**
 
+
 I turn messy data into clean, actionable insights — building real-time dashboards,
 automating workflows, and designing KPI-driven MIS systems that help businesses
 make faster decisions.
@@ -36,14 +37,14 @@ make faster decisions.
 ## 📸 Dashboard Previews
 
 | Production Dashboard | 
-[![Production Dashboard](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/dashboard_production.png)](https://satyamchauhan2005.github.io/Portfolio)
+[![Production Dashboard](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/dashboard_production.png)](https://satyamchauhan2005.github.io/Portfolio/)
 
 | Checklist Dashboard |
 
-[![Checklist Dashboard](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/Checklist.png)](https://satyamchauhan2005.github.io/Portfolio)
+[![Checklist Dashboard](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/Checklist.png)](https://satyamchauhan2005.github.io/Portfolio/)
 ## 🔗 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C8F135?style=for-the-badge)](https://satyamchauhan2005.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C8F135?style=for-the-badge)](https://satyamchauhan2005.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyamchauhan2005)
 [![Email](https://img.shields.io/badge/Email-Contact-FF5C5C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chauhansatyamsilika@gmail.com)
 
