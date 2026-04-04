@@ -35,9 +35,12 @@ make faster decisions.
 
 ## 📸 Dashboard Previews
 
-| Production Dashboard | Checklist Dashboard |
-|---|---|
-| [![Production](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/dashboard_production.png)](https://satyamchauhan2005.github.io/Portfolio) | [![Checklist](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/Checklist.png)](https://satyamchauhan2005.github.io/Portfolio) 
+| Production Dashboard | 
+[![Production Dashboard](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/dashboard_production.png)](https://satyamchauhan2005.github.io/Portfolio)
+
+| Checklist Dashboard |
+
+[![Checklist Dashboard](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/Checklist.png)](https://satyamchauhan2005.github.io/Portfolio)
 ## 🔗 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C8F135?style=for-the-badge)](https://satyamchauhan2005.github.io/Portfolio)
