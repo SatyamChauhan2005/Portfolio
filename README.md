@@ -40,11 +40,13 @@ make faster decisions.
 
 | FMS Tracker — Overview | FMS Tracker — Visual Insights |
 |---|---|
-| [![FMS Overview](https://github.com/SatyamChauhan2005/Portfolio/blob/main/FMS%20Overview.webp)](https://satyamchauhan2005.github.io/Portfolio/) | [![FMS Insights](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/dashboard_fms_insights.png)](https://satyamchauhan2005.github.io/Portfolio/) |
+| [![FMS Overview](https://github.com/SatyamChauhan2005/Portfolio/blob/main/dashboard_fms_overview.png)](https://satyamchauhan2005.github.io/Portfolio/) 
+| [![FMS Insights](https://github.com/SatyamChauhan2005/Portfolio/blob/main/dashboard_fms_insights.png)](https://satyamchauhan2005.github.io/Portfolio/) |
 
 | Inventory Tracker | CRM Management |
 |---|---|
-| [![Inventory Tracker](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/dashboard_inventory.png)](https://satyamchauhan2005.github.io/Portfolio/) | [![CRM Management](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/dashboard_crm.png)](https://satyamchauhan2005.github.io/Portfolio/) |
+| [![Inventory Tracker](https://github.com/SatyamChauhan2005/Portfolio/blob/main/dashboard_inventory.png)](https://satyamchauhan2005.github.io/Portfolio/)
+| [![CRM Management](https://github.com/SatyamChauhan2005/Portfolio/blob/main/dashboard_crm.png)](https://satyamchauhan2005.github.io/Portfolio/) |
 
 ---
 
