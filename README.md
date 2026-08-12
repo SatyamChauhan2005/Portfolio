@@ -40,7 +40,7 @@ make faster decisions.
 
 | FMS Tracker — Overview | FMS Tracker — Visual Insights |
 |---|---|
-| [![FMS Overview](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/dashboard_fms_overview.png)](https://satyamchauhan2005.github.io/Portfolio/) | [![FMS Insights](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/dashboard_fms_insights.png)](https://satyamchauhan2005.github.io/Portfolio/) |
+| [![FMS Overview](https://github.com/SatyamChauhan2005/Portfolio/blob/main/FMS%20Overview.webp)](https://satyamchauhan2005.github.io/Portfolio/) | [![FMS Insights](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/dashboard_fms_insights.png)](https://satyamchauhan2005.github.io/Portfolio/) |
 
 | Inventory Tracker | CRM Management |
 |---|---|
