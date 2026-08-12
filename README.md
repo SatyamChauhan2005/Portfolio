@@ -2,14 +2,14 @@
 
 **Data Analyst · MIS & Automation Specialist · New Delhi, India**
 
-
 I turn messy data into clean, actionable insights — building real-time dashboards,
 automating workflows, and designing KPI-driven MIS systems that help businesses
 make faster decisions.
 
 - 🏢 **Data Analyst** at Avi Couture Pvt. Ltd., New Delhi
-- 📊 Live dashboards tracking **68K+ production units** in real time
-- ⚡ Improved reporting efficiency by **40%** through end-to-end automation
+- 📊 Live dashboards tracking **124K+ production units** in real time
+- ⚡ Cut manual task volume by **60%** and improved reporting speed by **50%** through end-to-end automation
+- 💰 Reduced payroll processing errors by **40%**, saving 8+ hours/week
 - 🎓 BCA Graduate — Swami Vivekanand Subharti University (2025)
 
 ---
@@ -18,30 +18,36 @@ make faster decisions.
 
 | Category | Tools |
 |---|---|
-| **Data & Reporting** | Advanced Excel · MIS Reporting · KPI Tracking |
-| **Visualization & BI** | Power BI · Looker Studio · Dashboard Development |
-| **Automation** | Google Apps Script · AppSheet · Python |
-| **Database & Web** | MySQL · HTML · CSS |
+| **Data & Reporting** | Advanced Excel · MIS Reporting · KPI Tracking · SQL |
+| **Visualization & BI** | Power BI (DAX, Power Query) · Looker Studio · Tableau |
+| **Automation** | Google Apps Script · AppSheet · Python (Pandas, Matplotlib, Seaborn) |
+| **Database & Web** | MySQL · JavaScript · HTML · CSS |
 
 ---
 
 ## 📂 Featured Projects
 
-- 🏆 [Production & Payroll MIS Automation](https://satyamchauhan2005.github.io/Portfolio) — Google Sheets · AppSheet · Apps Script
-- 📊 [SalesIQ: Python EDA Pipeline](https://satyamchauhan2005.github.io/Portfolio) — Python · Pandas · Matplotlib
-- ☀️ [NHAI & NTPC Solar MIS](https://satyamchauhan2005.github.io/Portfolio) — Power BI · Excel · MIS Reporting
-- ✅ [Checklist Dashboard — Avi Couture](https://satyamchauhan2005.github.io/Portfolio) — Apps Script · Looker Studio
+- 🏆 [Production, Payroll & KPI Automation System](https://github.com/Satyam0053/avicouture) — Google Sheets · AppSheet · Apps Script
+- 📦 [POMS — Purchase Order Monitoring System](https://satyamchauhan2005.github.io/Portfolio) — Apps Script · JavaScript · Chart.js · SHA-256 Auth
+- 📈 [Global Sales Analytics Dashboard](https://satyamchauhan2005.github.io/Portfolio) — Power BI · DAX · Power Query
+- 🤝 [CRM Management System](https://github.com/Satyam0053/CRM) — Apps Script · Session Auth
+- 🐍 [Sales Data Exploratory Analysis](https://satyamchauhan2005.github.io/Portfolio) — Python · Pandas · Matplotlib · Seaborn
+- 🏭 [In-House Fabrication Management System](https://github.com/Satyam0053/INHOUSEFMS) — Apps Script · Modular Architecture
 
 ---
 
 ## 📸 Dashboard Previews
 
-| Production Dashboard | 
-[![Production Dashboard](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/dashboard_production.png)](https://satyamchauhan2005.github.io/Portfolio/)
+| FMS Tracker — Overview | FMS Tracker — Visual Insights |
+|---|---|
+| [![FMS Overview](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/dashboard_fms_overview.png)](https://satyamchauhan2005.github.io/Portfolio/) | [![FMS Insights](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/dashboard_fms_insights.png)](https://satyamchauhan2005.github.io/Portfolio/) |
 
-| Checklist Dashboard |
+| Inventory Tracker | CRM Management |
+|---|---|
+| [![Inventory Tracker](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/dashboard_inventory.png)](https://satyamchauhan2005.github.io/Portfolio/) | [![CRM Management](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/dashboard_crm.png)](https://satyamchauhan2005.github.io/Portfolio/) |
 
-[![Checklist Dashboard](https://raw.githubusercontent.com/SatyamChauhan2005/Portfolio/main/Checklist.png)](https://satyamchauhan2005.github.io/Portfolio/)
+---
+
 ## 🔗 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C8F135?style=for-the-badge)](https://satyamchauhan2005.github.io/Portfolio/)
